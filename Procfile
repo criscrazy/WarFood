@@ -1,0 +1,1 @@
+web: gunicorn WarFoodGames.wsgi --log-file - 
