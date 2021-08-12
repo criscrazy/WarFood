@@ -1,1 +1,1 @@
-web: gunicorn WarFoodGames.wsgi --log-file - 
+web: gunicorn WarFoodGames.wsgi --log-file -
