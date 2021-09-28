@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CrazyPage/.idea/CrazyPage.iml" filepath="$PROJECT_DIR$/../CrazyPage/.idea/CrazyPage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Forms/.idea/Forms.iml" filepath="$PROJECT_DIR$/../Forms/.idea/Forms.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/WarFoodGames.iml" filepath="$PROJECT_DIR$/.idea/WarFoodGames.iml" />
     </modules>
   </component>
